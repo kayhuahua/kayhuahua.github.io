@@ -7,4 +7,4 @@ title: Home
 
 ## Posts
 
-- [My First Post](/2026/03/19/test-post.html)
+- [Test Post](/2026/03/19/test-post.html)
