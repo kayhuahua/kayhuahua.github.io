@@ -3,12 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# My Math Blog
 
-This is my math blog.
+## Posts
 
-Here is some math:
-
-$$
-\sin(x) = x.
-$$
+- [My First Post](/2026/03/19/first-post.html)
