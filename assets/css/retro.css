@@ -1,0 +1,21 @@
+body {
+    background-color: #2D292E; /* soft cream */
+    color: #F2EEE6;
+    font-family: "Garamond", serif;
+}
+
+h1, h2, h3 {
+    font-family: "Georgia", serif;
+}
+
+a {
+    color: #5b4636;
+    text-decoration: underline;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: #fff8f0;
+}
